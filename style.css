@@ -1,0 +1,9 @@
+*{box-sizing:border-box}
+body{font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;line-height:1.5;color:#111;padding:24px;max-width:900px;margin:0 auto}
+header{margin-bottom:18px}
+h1{font-size:28px;margin:0 0 6px}
+.lede{color:#333;margin:0}
+h2{font-size:18px;margin-top:18px}
+ol,ul{margin-left:18px}
+a{color:#0b66ff}
+footer{margin-top:28px;color:#666;font-size:13px}
